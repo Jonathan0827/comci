@@ -9,7 +9,9 @@
   "short_name": "Comci",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "education"
+  ],
   "screenshots": [],
   "icons": [
     {
