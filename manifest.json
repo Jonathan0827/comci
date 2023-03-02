@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "App Store에 컴시간 시간표가 없어서 만든 PWA",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Comci PWA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Comci",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/png",
+      "sizes": "800x800"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko"
+}
